@@ -42,12 +42,12 @@ Dedicated IT student at Webster University, passionate about coding, data, and s
 
 ---
 
-## 🖥️ My Dev Setup  
+## 🖥️ My code Setup  
 - 💻 Lenovo + Windows  
 - 📝 VS Code  
-- 📊 Jupyter Notebook  
-- 🌐 Google Chrome  
-- 🎧 Spotify (coding mode activated)
+- 📊 sql and python notebooks
+- 🌐 chrome extensions  
+- 🎧 music(initially for coding)
 
 ---
 
@@ -59,8 +59,8 @@ Dedicated IT student at Webster University, passionate about coding, data, and s
 ---
 
 ## 🎉 Fun Facts  
-- ✨ Big fan of Sci-Fi movies  
-- 🚀 Love learning about space, physics & futuristic tech  
+- ✨ Love to watch action movies 
+- 🚀 Love learning about space, physics & automobile tech  
 - 🔧 Always experimenting with Python projects  
 
 ---
